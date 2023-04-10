@@ -1,0 +1,9 @@
+Serialization/Deserialization
+Service
+	Socket
+	SOAP
+	REST
+	gRPC
+
+Windows Service
+DI
