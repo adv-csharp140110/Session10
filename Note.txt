@@ -1,8 +1,25 @@
 Serialization/Deserialization
-Service
+Service / API
 	Socket
 	SOAP
+		RPC - Remote Procedure Call
+		Simple Object Access Protocol
+		SOA 
 	REST
+		web http
+		http method + uri + body
+
+			get		/posts		-> return all posts
+			post	/posts		-> create posts
+			delete  /posts/2	-> delete post 2 
+			get		/posts/2	-> get post 2 
+			put		/posts/2	-> update post 2 
+			patch	/posts/2	-> edit post 2 
+
+			put /todos {} 
+
+		Swagger -> OpenAPI
+
 	gRPC
 
 Windows Service
