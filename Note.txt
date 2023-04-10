@@ -21,6 +21,11 @@ Service / API
 		Swagger -> OpenAPI
 
 	gRPC
+		Serialization binary - protobuf
+		Backward compbility
+		security
+		http2
+		microservice
 
 Windows Service
 DI
